@@ -1,9 +1,0 @@
-.deps
-.libs
-Makefile
-Makefile.in
-libohm-marshal.*
-*.la
-*.lo
-*.o
-*~
